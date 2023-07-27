@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rahu2000/OnBoarding/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/rahu2000/OnBoarding/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
